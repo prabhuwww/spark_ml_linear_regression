@@ -159,3 +159,5 @@ linearModel.summary.rootMeanSquaredError
 
 # Get the R2
 linearModel.summary.r2
+
+spark.stop()
